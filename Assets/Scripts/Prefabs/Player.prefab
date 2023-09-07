@@ -53,6 +53,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CuClass: 0
   Name: 
+  animator: {fileID: 0}
 --- !u!50 &7369011730666642141
 Rigidbody2D:
   serializedVersion: 4
@@ -79,7 +80,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &172570492649802401
 BoxCollider2D:
   m_ObjectHideFlags: 0

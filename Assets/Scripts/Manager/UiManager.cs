@@ -50,6 +50,7 @@ public class UiManager : MonoBehaviour
     {
         DisplayClass.gameObject.SetActive(true);
         DisplayClassChange.gameObject.SetActive(false);
+        UpdateUI();
     }
 
     //이 밑으로 기능
