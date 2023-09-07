@@ -16,7 +16,7 @@ public class UiManager : MonoBehaviour
 
     public AnimatorController knightAnimatorController;
     public AnimatorController elfAnimatorController;
-   
+
     public void UpdateUI()
     {
         if(Player != null)
